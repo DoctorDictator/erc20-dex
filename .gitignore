@@ -15,3 +15,13 @@ typechain-types
 # Hardhat compilation output
 cache
 artifacts
+
+# TypeScript compilation output
+dist
+
+# ABI files (keep .d.ts, ignore .json)
+abis/*.json
+
+# IDE
+.vscode
+.idea
