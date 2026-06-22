@@ -1,0 +1,17 @@
+# Dependencies installed by npm
+node_modules
+
+# Environment variables (private keys, etc.)
+.env
+
+# Test coverage reports
+coverage
+coverage.json
+
+# TypeChain TypeScript bindings
+typechain
+typechain-types
+
+# Hardhat compilation output
+cache
+artifacts
